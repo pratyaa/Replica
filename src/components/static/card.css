@@ -1,0 +1,13 @@
+.hoverCard:hover{
+
+}
+
+.expandableButton{
+    position:absolute;
+    top:200px; 
+    left:200px;   
+}
+
+.myCard:hover{
+box-shadow:0.5px 0.5px 10px #D3D3D3;
+}
