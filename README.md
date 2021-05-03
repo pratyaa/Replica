@@ -10,5 +10,7 @@ Finally Run `npm start`
 * react
 * reactstrap
 * react-bootstrap
+* react-beautiful-dnd (could not implement it properly due to unsolvable errors)
 
 
+**On directly running the file first page of task is displayed ,please comment out FirstPage and remove comments of SecondPage to view second page in App.js**
